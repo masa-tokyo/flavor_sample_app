@@ -18,3 +18,19 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+flavors:
+  dev:
+    app:
+      name: "Flavor Sample App Dev"
+    android:
+      applicationId: "com.example.flavor_sample_app.dev"
+    ios:
+      bundleId: "com.example.flavor_sample_app.dev"
+  prod:
+    app:
+      name: "Flavor Sample App"
+    android:
+      applicationId: "com.example.flavor_sample_app"
+    ios:
+      bundleId: "com.example.flavor_sample_app"
