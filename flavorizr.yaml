@@ -5,12 +5,22 @@ flavors:
       name: "Flavor Sample App Dev"
     android:
       applicationId: "com.example.flavor_sample_app.dev"
+      icon: "assets/android_app_icon_dev.png"
+      adaptiveIcon:
+        foreground: "assets/android_app_icon_foreground_dev.png"
+        background: "assets/android_app_icon_background.png"
     ios:
       bundleId: "com.example.flavor_sample_app.dev"
+      icon: "assets/ios_app_icon_dev.png"
   prod:
     app:
       name: "Flavor Sample App"
     android:
       applicationId: "com.example.flavor_sample_app"
+      icon: "assets/android_app_icon.png"
+      adaptiveIcon:
+        foreground: "assets/android_app_icon_foreground.png"
+        background: "assets/android_app_icon_background.png"
     ios:
       bundleId: "com.example.flavor_sample_app"
+      icon: "assets/ios_app_icon.png"
