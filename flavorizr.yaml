@@ -1,4 +1,4 @@
-ide: "vscode"
+ide: "idea"
 flavors:
   dev:
     app:
