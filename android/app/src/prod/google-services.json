@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "761898792675",
+    "project_id": "flavor-sample-app-prod",
+    "storage_bucket": "flavor-sample-app-prod.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761898792675:android:3de2201231bc3a7edb77d6",
+        "android_client_info": {
+          "package_name": "com.example.flavor_sample_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXugga_I5obD0_IQz7B1dnnPPkHfcBg9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
