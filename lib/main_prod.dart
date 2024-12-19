@@ -1,8 +1,9 @@
+import 'package:flavor_sample_app/firebase_options_prod.dart';
+
 import 'flavors.dart';
+import 'main.dart';
 
-import 'main.dart' as runner;
-
-Future<void> main() async {
+void main() async {
   F.appFlavor = Flavor.prod;
-  await runner.main();
+  runMainApp(DefaultFirebaseOptions.currentPlatform);
 }
