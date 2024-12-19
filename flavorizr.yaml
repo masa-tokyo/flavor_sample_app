@@ -10,7 +10,7 @@ flavors:
         foreground: "assets/android_app_icon_foreground_dev.png"
         background: "assets/android_app_icon_background.png"
     ios:
-      bundleId: "com.example.flavor_sample_app.dev"
+      bundleId: "com.example.flavorSampleApp.dev"
       icon: "assets/ios_app_icon_dev.png"
   prod:
     app:
@@ -22,5 +22,5 @@ flavors:
         foreground: "assets/android_app_icon_foreground.png"
         background: "assets/android_app_icon_background.png"
     ios:
-      bundleId: "com.example.flavor_sample_app"
+      bundleId: "com.example.flavorSampleApp"
       icon: "assets/ios_app_icon.png"
