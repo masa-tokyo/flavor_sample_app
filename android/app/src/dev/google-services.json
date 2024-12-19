@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "650206124134",
+    "project_id": "flavor-sample-app-dev",
+    "storage_bucket": "flavor-sample-app-dev.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650206124134:android:4923b9b7e4940cbc7275a7",
+        "android_client_info": {
+          "package_name": "com.codewithandrea.flavor_sample_app.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4GFy483HYhHCvbfipfpEk8Pk0orUrA0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650206124134:android:a7c2711cd0968a277275a7",
+        "android_client_info": {
+          "package_name": "com.example.flavor_sample_app.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4GFy483HYhHCvbfipfpEk8Pk0orUrA0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
